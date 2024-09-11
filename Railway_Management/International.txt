@@ -1,0 +1,5 @@
+1 BestFriend 10000 50 5000 100 China
+2 Inter 10000 20 4000 130 Afghanistan
+3 Dushman 200000 10 5000 100 India
+4 GasWalay 6000 25 4000 75 Iran
+5 ABC 5000 20 2500 80 BasItniHiOptionsThin
